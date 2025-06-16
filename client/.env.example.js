@@ -1,1 +1,0 @@
-VITE_BASE_URL=https://lms-project-1-u4ch.onrender.com
